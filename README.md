@@ -22,6 +22,8 @@ We are deploying this on a **Beelink ME Mini NAS (N100)**.
 *   It's quiet.
 *   It fits on a bookshelf.
 *   But it is *not* a supercomputer.
+*   It is perfect for a person starting out who can't afford a large overhead cost for services. (me)
+*   And let's be honest I already Own it and it needs put to good use.
 
 ### 2. The AI Strategy (Orchestration vs. Compute)
 I faced a choice: buy a $2,000 GPU to run a local LLM that makes my lights dim when it thinks, or find a smarter way. I chose the latter.
